@@ -1,30 +1,5 @@
 [
   {
-    "id": "riven-ashton-don-t-test-me",
-    "num": "01",
-    "title": "Don't Test Me",
-    "artist": "Riven Ashton",
-    "album": "Singles",
-    "trackNumber": 1,
-    "albumOrder": 1,
-    "albumCover": "",
-    "type": "single",
-    "isLatest": false,
-    "cover": "",
-    "audio": "",
-    "audioSrc": "",
-    "videos": [],
-    "includeOnRadio": false,
-    "includeOnHomepage": false,
-    "explicit": false,
-    "tags": [],
-    "streaming": {
-      "spotify": "",
-      "apple": "",
-      "youtubeMusic": ""
-    }
-  },
-  {
     "id": "riven-ashton-not-my-problem",
     "num": "01",
     "title": "Not My Problem",
@@ -41,27 +16,6 @@
     "videos": [],
     "includeOnRadio": false,
     "includeOnHomepage": false,
-    "explicit": false,
-    "tags": [],
-    "streaming": {}
-  },
-  {
-    "id": "riven-ashton-don-t-test-me",
-    "num": "02",
-    "title": "Don't Test Me",
-    "artist": "Riven Ashton",
-    "album": "Since You Asked",
-    "trackNumber": 2,
-    "albumOrder": 2,
-    "albumCover": "",
-    "type": "single",
-    "isLatest": true,
-    "cover": "images/covers/riven-ashton-don-t-test-me-cover.png",
-    "audio": "https://www.dropbox.com/scl/fi/nions150to1734sbjkh4r/ashton-riven-dont-test-me-MP3-mastered.mp3?rlkey=fw70zy4g1dfpwlds8lhqv6ug2&raw=1",
-    "audioSrc": "https://www.dropbox.com/scl/fi/nions150to1734sbjkh4r/ashton-riven-dont-test-me-MP3-mastered.mp3?rlkey=fw70zy4g1dfpwlds8lhqv6ug2&raw=1",
-    "videos": [],
-    "includeOnRadio": false,
-    "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
     "streaming": {}
