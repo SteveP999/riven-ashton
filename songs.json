@@ -9,7 +9,7 @@
     "albumOrder": 1,
     "albumCover": "images/covers/riven-ashton-since-you-asked-ALBUM-cover.png",
     "type": "single",
-    "isLatest": false,
+    "isLatest": true,
     "cover": "images/covers/riven-ashton-not-my-problem-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/y03actqcdhgfkwhnzflq6/riven-ashton-not-my-problem-MP3-mastered.mp3?rlkey=vmtoi22orghqg0nqy84ghtf5r&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/y03actqcdhgfkwhnzflq6/riven-ashton-not-my-problem-MP3-mastered.mp3?rlkey=vmtoi22orghqg0nqy84ghtf5r&raw=1",
@@ -18,6 +18,10 @@
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   }
 ]

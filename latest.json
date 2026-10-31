@@ -1,11 +1,11 @@
 {
-  "title": "Don't Test Me",
+  "title": "Not My Problem",
   "artist": "Riven Ashton",
-  "album": "Singles",
+  "album": "Since You Asked",
   "type": "Latest Single",
-  "cover": "",
-  "image": "",
-  "audio": "",
-  "audioSrc": "",
+  "cover": "images/covers/riven-ashton-not-my-problem-cover.png",
+  "image": "images/covers/riven-ashton-not-my-problem-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/y03actqcdhgfkwhnzflq6/riven-ashton-not-my-problem-MP3-mastered.mp3?rlkey=vmtoi22orghqg0nqy84ghtf5r&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/y03actqcdhgfkwhnzflq6/riven-ashton-not-my-problem-MP3-mastered.mp3?rlkey=vmtoi22orghqg0nqy84ghtf5r&raw=1",
   "videos": []
 }
