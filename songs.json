@@ -1,0 +1,27 @@
+[
+  {
+    "id": "riven-ashton-don-t-test-me",
+    "num": "01",
+    "title": "Don't Test Me",
+    "artist": "Riven Ashton",
+    "album": "Singles",
+    "trackNumber": 1,
+    "albumOrder": 1,
+    "albumCover": "",
+    "type": "single",
+    "isLatest": true,
+    "cover": "",
+    "audio": "",
+    "audioSrc": "",
+    "videos": [],
+    "includeOnRadio": false,
+    "includeOnHomepage": false,
+    "explicit": false,
+    "tags": [],
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
+  }
+]
