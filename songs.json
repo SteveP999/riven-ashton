@@ -9,7 +9,7 @@
     "albumOrder": 1,
     "albumCover": "",
     "type": "single",
-    "isLatest": true,
+    "isLatest": false,
     "cover": "",
     "audio": "",
     "audioSrc": "",
@@ -23,5 +23,26 @@
       "apple": "",
       "youtubeMusic": ""
     }
+  },
+  {
+    "id": "riven-ashton-not-my-problem",
+    "num": "01",
+    "title": "Not My Problem",
+    "artist": "Riven Ashton",
+    "album": "Since You Asked",
+    "trackNumber": 1,
+    "albumOrder": 1,
+    "albumCover": "images/covers/riven-ashton-since-you-asked-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/riven-ashton-not-my-problem-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/y03actqcdhgfkwhnzflq6/riven-ashton-not-my-problem-MP3-mastered.mp3?rlkey=vmtoi22orghqg0nqy84ghtf5r&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/y03actqcdhgfkwhnzflq6/riven-ashton-not-my-problem-MP3-mastered.mp3?rlkey=vmtoi22orghqg0nqy84ghtf5r&raw=1",
+    "videos": [],
+    "includeOnRadio": false,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
